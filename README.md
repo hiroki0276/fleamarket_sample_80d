@@ -130,14 +130,26 @@ Things you may want to cover:
 ### Association
 - belongs_to :user
 
-* Database initialization
+### Database initialization
 
-* How to run the test suite
+### How to run the test suite
+- URL:http://3.113.175.20 
+- テスト用アカウント 
+- 購入者用 メールアドレス：test@test.test 
+- パスワード：testtest 
+- 購入用カード情報 番号：4242424242424242 期限：12月 30年 セキュリティカード：072 
+- 出品者用 メールアドレス：uru@uru.uru 
+- パスワード：uru1234
 
-* Services (job queues, cache servers, search engines, etc.)
+### Services (job queues, cache servers, search engines, etc.)
+- ユーザー登録機能 
+- 出品機能 
+- 商品表示機能 
+- 購入機能
+### Deployment instructions
+- URL IPアドレス：3.113.175.20 
+- Github（最終課題のリポジトリ）：fleamarket_sample_80d 
+- Basic認証 ID：80d Pass：password
 
-* Deployment instructions
-
-* ...
 
 
